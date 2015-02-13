@@ -22,6 +22,7 @@
 
 #import "AFNetworkReachabilityManager.h"
 
+#import "block.h"
 #import <netinet/in.h>
 #import <netinet6/in6.h>
 #import <arpa/inet.h>
